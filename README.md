@@ -5,9 +5,19 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05060a,40:0c1220,100:F5C518&height=220&section=header&text=UDIT%20AWASTHI&fontSize=52&fontColor=F5C518&fontAlignY=38&desc=BATCOMPUTER%20%2F%2F%20SYS.2090%20%C2%B7%20GOTHAM%20GRID%20ONLINE&descSize=14&descAlignY=62&descColor=5CE1FF&animation=twinkling" alt="batcomputer header" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:05060a,40:0c1220,100:F5C518&height=220&section=header&text=UDIT%20AWASTHI&fontSize=52&fontColor=F5C518&fontAlignY=38&desc=BATCOMPUTER%20%2F%2F%20SYS.2090%20%C2%B7%20GOTHAM%20GRID%20ONLINE&descSize=14&descAlignY=62&descColor=5CE1FF&animation=twinkling" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F5C518,45:f3efe3,100:5CE1FF&height=220&section=header&text=UDIT%20AWASTHI&fontSize=52&fontColor=0C1220&fontAlignY=38&desc=BATCOMPUTER%20%2F%2F%20SYS.2090%20%C2%B7%20GOTHAM%20GRID%20ONLINE&descSize=14&descAlignY=62&descColor=0C1220&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C518,45:f3efe3,100:5CE1FF&height=220&section=header&text=UDIT%20AWASTHI&fontSize=52&fontColor=0C1220&fontAlignY=38&desc=BATCOMPUTER%20%2F%2F%20SYS.2090%20%C2%B7%20GOTHAM%20GRID%20ONLINE&descSize=14&descAlignY=62&descColor=0C1220&animation=twinkling" alt="batcomputer header" />
+</picture>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=15&duration=2800&pause=700&color=F5C518&center=true&vCenter=true&width=760&lines=WAYNE+INDUSTRIES+%2F%2F+BACKEND+DIVISION;SIGNAL+LOCKED+%C2%B7+GRID+ARMED+%C2%B7+CAVE+ONLINE;REDIS+IN+RUST+%C2%B7+BUILT+IN+THE+DARK;KAFKA+%C2%B7+GRPC+%C2%B7+WEBSOCKETS+%C2%B7+CRDTS;THE+NIGHT+IS+DARKEST+BEFORE+THE+DEPLOY" alt="batcomputer uplink" /></a>
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=15&duration=2800&pause=700&color=F5C518&center=true&vCenter=true&width=760&lines=WAYNE+INDUSTRIES+%2F%2F+BACKEND+DIVISION;SIGNAL+LOCKED+%C2%B7+GRID+ARMED+%C2%B7+CAVE+ONLINE;REDIS+IN+RUST+%C2%B7+BUILT+IN+THE+DARK;KAFKA+%C2%B7+GRPC+%C2%B7+WEBSOCKETS+%C2%B7+CRDTS;THE+NIGHT+IS+DARKEST+BEFORE+THE+DEPLOY" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=15&duration=2800&pause=700&color=0C1220&center=true&vCenter=true&width=760&lines=WAYNE+INDUSTRIES+%2F%2F+BACKEND+DIVISION;SIGNAL+LOCKED+%C2%B7+GRID+ARMED+%C2%B7+CAVE+ONLINE;REDIS+IN+RUST+%C2%B7+BUILT+IN+THE+DARK;KAFKA+%C2%B7+GRPC+%C2%B7+WEBSOCKETS+%C2%B7+CRDTS;THE+NIGHT+IS+DARKEST+BEFORE+THE+DEPLOY" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=15&duration=2800&pause=700&color=0C1220&center=true&vCenter=true&width=760&lines=WAYNE+INDUSTRIES+%2F%2F+BACKEND+DIVISION;SIGNAL+LOCKED+%C2%B7+GRID+ARMED+%C2%B7+CAVE+ONLINE;REDIS+IN+RUST+%C2%B7+BUILT+IN+THE+DARK;KAFKA+%C2%B7+GRPC+%C2%B7+WEBSOCKETS+%C2%B7+CRDTS;THE+NIGHT+IS+DARKEST+BEFORE+THE+DEPLOY" alt="batcomputer uplink" />
+  </picture>
+</a>
 
 <br/>
 
@@ -144,6 +154,22 @@ front         react · react native · next.js · tailwind · electron
 
 <br/>
 
+<div align="center">
+
+### ◈ &nbsp; CONTRIBUTION GRID // LIVE FEED &nbsp; ◈
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UditAwasthi404/UditAwasthi404/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UditAwasthi404/UditAwasthi404/output/github-contribution-grid-snake.svg" />
+  <img alt="a snake eating its way through udit's github contribution grid" src="https://raw.githubusercontent.com/UditAwasthi404/UditAwasthi404/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
 <div align="center"><img width="92%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:05060a,50:F5C518,100:5CE1FF" alt="" /></div>
 
 <br/>
@@ -222,7 +248,11 @@ front         react · react native · next.js · tailwind · electron
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C518,60:0c1220,100:05060a&height=140&section=footer&text=%22It%27s%20not%20who%20I%20am%20underneath.%22&fontSize=18&fontColor=F5C518&fontAlignY=42&desc=what%20I%20do%20that%20defines%20me%20%C2%B7%20batcomputer%20offline%20until%20the%20signal&descSize=13&descAlignY=68&descColor=5CE1FF&animation=twinkling&reversal=true" alt="signal" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F5C518,60:0c1220,100:05060a&height=140&section=footer&text=%22It%27s%20not%20who%20I%20am%20underneath.%22&fontSize=18&fontColor=F5C518&fontAlignY=42&desc=what%20I%20do%20that%20defines%20me%20%C2%B7%20batcomputer%20offline%20until%20the%20signal&descSize=13&descAlignY=68&descColor=5CE1FF&animation=twinkling&reversal=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:5CE1FF,60:f3efe3,100:F5C518&height=140&section=footer&text=%22It%27s%20not%20who%20I%20am%20underneath.%22&fontSize=18&fontColor=0C1220&fontAlignY=42&desc=what%20I%20do%20that%20defines%20me%20%C2%B7%20batcomputer%20offline%20until%20the%20signal&descSize=13&descAlignY=68&descColor=0C1220&animation=twinkling&reversal=true" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5CE1FF,60:f3efe3,100:F5C518&height=140&section=footer&text=%22It%27s%20not%20who%20I%20am%20underneath.%22&fontSize=18&fontColor=0C1220&fontAlignY=42&desc=what%20I%20do%20that%20defines%20me%20%C2%B7%20batcomputer%20offline%20until%20the%20signal&descSize=13&descAlignY=68&descColor=0C1220&animation=twinkling&reversal=true" alt="signal" />
+</picture>
 
 <br/>
 
