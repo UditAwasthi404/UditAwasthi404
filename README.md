@@ -22,7 +22,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/SYS-ONLINE-05060a?style=for-the-badge&labelColor=F5C518&color=05060a" alt="sys online" />
-<img src="https://img.shields.io/badge/CLEARANCE-LEVEL%20Ω-5CE1FF?style=for-the-badge&labelColor=05060a" alt="clearance" />
+<img src="https://img.shields.io/badge/CLEARANCE-LEVEL%20%CE%A9-5CE1FF?style=for-the-badge&labelColor=05060a" alt="clearance" />
 <img src="https://img.shields.io/badge/SECTOR-GOTHAM%20GRID-F5C518?style=for-the-badge&labelColor=05060a" alt="sector" />
 <img src="https://img.shields.io/badge/HOST-GITLAB-05060a?style=for-the-badge&labelColor=5CE1FF&color=05060a&logo=gitlab&logoColor=FC6D26" alt="gitlab" />
 
@@ -44,7 +44,13 @@
 
 <br/>
 
-<div align="center"><img width="92%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:05060a,50:F5C518,100:5CE1FF&section=header" alt="" /></div>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:05060a,50:F5C518,100:5CE1FF&section=header" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:f3efe3,50:F5C518,100:5CE1FF&section=header" />
+  <img width="92%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:f3efe3,50:F5C518,100:5CE1FF&section=header" alt="" />
+</picture>
+</div>
 
 <br/>
 
@@ -87,7 +93,13 @@ a personal memory app that makes everything you save searchable in plain languag
 
 <br/>
 
-<div align="center"><img width="92%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:5CE1FF,50:F5C518,100:05060a" alt="" /></div>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:5CE1FF,50:F5C518,100:05060a" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:5CE1FF,50:F5C518,100:f3efe3" />
+  <img width="92%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:5CE1FF,50:F5C518,100:f3efe3" alt="" />
+</picture>
+</div>
 
 <br/>
 
@@ -170,7 +182,13 @@ front         react · react native · next.js · tailwind · electron
 
 <br/>
 
-<div align="center"><img width="92%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:05060a,50:F5C518,100:5CE1FF" alt="" /></div>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:05060a,50:F5C518,100:5CE1FF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:f3efe3,50:F5C518,100:5CE1FF" />
+  <img width="92%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:f3efe3,50:F5C518,100:5CE1FF" alt="" />
+</picture>
+</div>
 
 <br/>
 
@@ -210,7 +228,13 @@ front         react · react native · next.js · tailwind · electron
 
 <br/>
 
-<div align="center"><img width="92%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:5CE1FF,50:F5C518,100:05060a" alt="" /></div>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:5CE1FF,50:F5C518,100:05060a" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:5CE1FF,50:F5C518,100:f3efe3" />
+  <img width="92%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:5CE1FF,50:F5C518,100:f3efe3" alt="" />
+</picture>
+</div>
 
 <br/>
 
@@ -232,7 +256,13 @@ front         react · react native · next.js · tailwind · electron
 
 <br/>
 
-<div align="center"><img width="92%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:05060a,50:F5C518,100:5CE1FF" alt="" /></div>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:05060a,50:F5C518,100:5CE1FF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:f3efe3,50:F5C518,100:5CE1FF" />
+  <img width="92%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:f3efe3,50:F5C518,100:5CE1FF" alt="" />
+</picture>
+</div>
 
 <br/>
 
